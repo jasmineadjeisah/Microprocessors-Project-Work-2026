@@ -1,0 +1,11 @@
+﻿Name,Quantity,Component
+"Ugroup3",1," Arduino Uno R3"
+"Rpot1, Rpot2",2,"250 kΩ Potentiometer"
+"PIEZObuzzer",1," Piezo"
+"Dgroup3",1,"Red LED"
+"D1",1,"Yellow LED"
+"U1",1," LCD 16 x 2"
+"R1, R2, R3, R4",4,"220 Ω Resistor"
+"D2",1,"Green LED"
+"S1",1," Pushbutton"
+"R5",1,"10 kΩ Resistor"
